@@ -1,0 +1,28 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.fontFamily": "Fira Code",
+  "window.zoomLevel": 0,
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.snippetSuggestions": "top",
+  "editor.lineNumbers": "on",
+  "editor.minimap.enabled": false,
+  "files.exclude": {
+    "node_modules": true,
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "workbench.colorTheme": "Night Owl No Italics",
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": false,
+  "files.trimTrailingWhitespace": true,
+  "workbench.sideBar.location": "left",
+  "workbench.activityBar.visible": true,
+  "editor.formatOnSave": true,
+  "prettier.printWidth": 120
+}
