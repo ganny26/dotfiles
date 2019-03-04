@@ -51,3 +51,11 @@ gcoub() {
     git branch --set-upstream-to=origin/master "$1"
 }
 
+#docker
+alias di='docker images'
+alias dri='docker rmi'
+alias dsca='docker stop $(docker ps -aq)'
+alias drca='docker rm $(docker ps -aq)'
+alias dria='docker rmi $(docker images -q)'
+alias dlc='docker container ls --all'
+
