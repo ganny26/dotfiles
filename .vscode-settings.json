@@ -24,5 +24,10 @@
   "workbench.sideBar.location": "left",
   "workbench.activityBar.visible": true,
   "editor.formatOnSave": true,
-  "prettier.printWidth": 120
+  "prettier.printWidth": 120,
+  "glean.switchToTarget": true,
+  "flow.enabled": false,
+  "files.autoSave": "off",
+  "terminal.integrated.fontSize":"14",
+  "terminal.integrated.fontFamily":"Fira Code"
 }
