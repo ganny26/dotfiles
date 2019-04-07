@@ -4,3 +4,4 @@
   - [Colorful code editor screen](https://romannurik.github.io/SlidesCodeHighlighter/)
   - [Markdown Creator](https://dillinger.io/)
   - [Get beautiful developer fonts](https://www.getthefont.com/)
+  - [Font Search Engine](https://www.fontsquirrel.com/)
