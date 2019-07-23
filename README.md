@@ -7,14 +7,13 @@
   - [Font Search Engine](https://www.fontsquirrel.com/)
   - [VSCode Glean](https://github.com/wix/vscode-glean/)
 
-## VIM Short Cuts
+## VIM Shortcuts
 
 ```
 :1 top of file
 :$ end of file
 a append
 i insert
-
 ```
 
 ## ZSHELL 
@@ -26,4 +25,5 @@ prompt_context() {
     prompt_segment black default "%(!.%{%F{yellow}%}.)$USER"
   fi
 }
+
 ```
