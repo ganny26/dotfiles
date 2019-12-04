@@ -16,6 +16,10 @@
     "**/CVS": true,
     "**/.DS_Store": true
   },
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,//here
+    "source.fixAll": true
+  },
   "emmet.triggerExpansionOnTab": true,
   "workbench.colorTheme": "Night Owl No Italics",
   "files.trimFinalNewlines": true,
