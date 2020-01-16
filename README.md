@@ -6,6 +6,8 @@
   - [Get beautiful developer fonts](https://www.getthefont.com/)
   - [Font Search Engine](https://www.fontsquirrel.com/)
   - [VSCode Glean](https://github.com/wix/vscode-glean/)
+  - Mono Fonts
+    - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 ## VIM Shortcuts
 
