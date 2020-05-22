@@ -59,3 +59,8 @@ Ctrl-l Clear the screen, reprinting the current line at the top.
 |1G | move to the first line of the file |
 |20G | move to the 20th line of the file |
 |G | move to the last line of the file |
+
+## Git Shortcut
+
+- git clean -fd
+- git reset --hard HEAD
